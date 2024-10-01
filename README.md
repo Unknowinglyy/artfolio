@@ -1,5 +1,9 @@
 # CSCE 310 Summer 2024 Database Systems Project (The Artfolio Gallery Application)
 
+[Check out the final presentation that goes over the project!](https://www.youtube.com/watch?v=6IN9Xyc7Wbg&ab_channel=BlakeDejohn)
+
+[The final report is also interesting!](/files/)
+
 ## If everything goes well...
 Our application is hosted in the cloud using Heroku. You can access it by clicking [here](https://csce-310-artfolio-8885d6fafd86.herokuapp.com/).
 
